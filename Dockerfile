@@ -1,3 +1,3 @@
 #
 FROM alpine:latest
-CMD ["HELLLOOOOO"] 
+CMD ["/bin/sh echo HELLLOOOOO"] 
